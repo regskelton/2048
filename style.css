@@ -1,0 +1,12 @@
+.board {
+    border:inset #555;
+}
+
+.board {
+text-align:center;
+font-size:25px;
+border:outset #999;
+width:40px;
+height:40px;
+vertical-align: middle;
+}
